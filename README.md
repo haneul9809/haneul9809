@@ -1,13 +1,19 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2356C345&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://[github.com/haneul9809])
+## Hi there 👋 Haneul Choi, Mobile Developer :)
+### Tech Stack ⚡
+#### Android 
+Kotlin, Compose, MVVM, Clean Architecture, Coroutine, Retrofit, OkHttp, Glide, LiveData, Flow, ViewModel, Navigation, DataBinding, Room, DataStore, Hilt
+#### Web
+Java, Java Script, HTML, CSS, React Native, Word Press, Bootstrap
+#### Server
+AWS, Linux, Apache, Node.js, Django, Flask, PHP, MySQL, Firebase, Netlify
+#### MORE
+Unity, Power BI, Pandas, TensorFlow
 
-### Hi there 👋 I am Haneul Choi!
+[![Haneul's github stats](https://github-readme-stats.vercel.app/api?username=haneul9809)](https://github.com/anuraghazra/github-readme-stats)
 
+Copyright © Choi Haneul. All rights reserved.
 
 <!--
-**haneul9809/haneul9809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
