@@ -2,12 +2,6 @@
 ### Tech Stack ⚡
 #### Android 
 Kotlin, Compose, MVVM, Clean Architecture, Coroutine, Retrofit, OkHttp, Glide, LiveData, Flow, ViewModel, Navigation, DataBinding, Room, DataStore, Hilt
-#### Web
-Java, Java Script, HTML, CSS, React Native, Word Press, Bootstrap
-#### Server
-AWS, Linux, Apache, Node.js, Django, Flask, PHP, MySQL, Firebase, Netlify
-#### MORE
-Unity, Power BI, Pandas, TensorFlow
 
 [![Haneul's github stats](https://github-readme-stats.vercel.app/api?username=haneul9809)](https://github.com/anuraghazra/github-readme-stats)
 
